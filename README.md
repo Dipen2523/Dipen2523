@@ -45,7 +45,7 @@ Venture forth into my repository chambers, where tales of valor and triumph awai
 
 ## 🔗 Join My Fellowship!
 
-Are you prepared to embark on epic quests, engage in arcane debates, or simply share tales of your own adventures? Take heed, and join me on [LinkedIn](#) and [Twitter](#), or send word via electronic raven to [example@example.com](mailto:example@example.com).
+Are you prepared to embark on epic quests, engage in arcane debates, or simply share tales of your own adventures? Take heed, and join me on [LinkedIn]([#](https://www.linkedin.com/in/dipen-patel-792296260/)) and [Twitter]([#](https://twitter.com/DIPENPA08441275)) and [leetcode](https://leetcode.com/u/DIPEN125/) , or send word via electronic raven to [pdipen135@gmail.com](mailto:example@example.com).
 
 Together, let us forge a path through the digital wilderness and carve our names into the annals of history! 🌌
 
