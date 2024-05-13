@@ -26,14 +26,10 @@ My quest is one of innovation and creation, where the melding of technology and 
 
 ## 📜 Past Wizard Academies
 
-In the annals of time, my journey began in the hallowed halls of past wizard academies. There, amidst the incantations of design and the sorcery of art, I honed my skills and crafted my first spells.
+In the annals of time, my journey began in the hallowed halls of MS University Baroda(2020-2021). There, amidst the incantations of design and the sorcery of art, I honed my skills and crafted my first spells.
 
 But as the moons waxed and waned, I felt the call of a greater adventure. With a heart afire with curiosity and a thirst for deeper knowledge, I embarked on a new quest—to delve into the ancient lore of logic and algorithmic wizardry.
 
-## 📜 Certifications and Academic Chronicles
-
-- **MS University (2020-2021)**: Studied Design and unearthed the secrets of creativity.
-- **Parul University (2021-Present)**: Embarked on a journey in Computer Science to pursue the arcane arts of logic and algorithmic wizardry.
 - **Legendary Quests Completed**: 
     - CS50 and CS50 Web (2022-2023)
     - Cisco courses on C++ and cybersecurity
@@ -44,6 +40,7 @@ But as the moons waxed and waned, I felt the call of a greater adventure. With a
 Venture forth into my repository chambers, where tales of valor and triumph await:
 
 - **Epic Hackathons**: Battle-tested and victorious, I have claimed rare treasures, including a domain name and the prestigious GitHub Pro subscription.
+- **Academic CHronicles**: Completed the legendary CS50, CS50 Web, and Cisco Courses, alongside the NPTEL software engineering saga
 - **Projects of Legend**: Explore the artifacts of my creation, from web citadels to algorithmic conquests.
 
 ## 🔗 Join My Fellowship!
