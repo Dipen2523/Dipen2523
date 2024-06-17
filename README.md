@@ -52,4 +52,3 @@ Together, let us forge a path through the digital wilderness and carve our names
 # Old account
 - my previous account was compromised in invalid Suspension by github recovery in process:(www.github.com/DOodle25)
 <img src="./git1.png">
-
